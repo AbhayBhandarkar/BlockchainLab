@@ -1,0 +1,9 @@
+Program to do on 27/3/2025.
+Develop a program for the following using block chain concepts.
+A. Create multiple nodes and manage using socket pgm
+B. Manage block chain to maintain patient data across hospital(where dr access ) access through once node. Whr. A new patient  visit and hospital , create  genesis block. 
+C.when dr write , do blood test. Patient goes to diagnostic center, they access patient data through block chain.( Dr created alrdy). Then they do blood test , that data you add in the next block. So dr.will get incentive .update his balance of e-cash. Update tx in ledger .
+D.Then the patient goes back to dr to show blood test report. That time dr access the data created by diagnostic center, so now diagnostic center get the incentive in terms of e-cash . After seeing report, dr write prescription. For this new block to be added in block chain. 
+E. Then the patient goes to pharmacy , they access the prescription from block chain, that time dr get incentive. Then patient buy medicines. 
+
+All the people mentioned above will access by logging in to system. Once node can be used for authentication by storing username,pwd.
