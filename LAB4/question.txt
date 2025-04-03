@@ -1,0 +1,4 @@
+Implement cipher block chain cryptography mechanism , encrypt transaction data and out it in block chain. Decrypt and receiver end
+2.Similarly implement counter mode encryption over transaction data in block chain decrypt at receiver end .
+3. Implement AES algorithm for encryption over block chain tx data.
+4. Execute openssl commands for aes encryption, encoding  over a text file . And do decryption also using open ssl cms
